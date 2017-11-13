@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TH_Tin_C_.dir/main.c.o CMakeFiles/TH_Tin_C_.dir/class.c.o  -o TH_Tin_C_ 
