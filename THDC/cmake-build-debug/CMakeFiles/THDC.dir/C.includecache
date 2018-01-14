@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kiyoshitaro/CLionProjects/THDC/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+memory.h
+-
+stdlib.h
+-
+time.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Menu.dir/main.c.o  -o Menu 

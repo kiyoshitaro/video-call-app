@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Bai5_2.dir/main.c.o  -o Bai5_2 

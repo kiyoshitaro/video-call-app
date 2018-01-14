@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Menu_TH.dir/main.c.o  -o Menu_TH 
