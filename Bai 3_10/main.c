@@ -7,9 +7,11 @@ int gt(int x){
 }
 
 void main(){
+    printf("Nguyen Tuan Hung    ;     MSSV : 20162031 \n");
+    printf("In ra tam giác pascal \n");
     int n,i,j,C;
     do{
-        printf("Nhap vao so duong be hon 11: ");
+        printf("Nhap vao so duong be hon 10: ");
         scanf("%d",&n);
     }
     while(n>=10||n<1);
@@ -22,3 +24,4 @@ void main(){
         printf("\n");
     }
 }
+

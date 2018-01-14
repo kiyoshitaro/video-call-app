@@ -2,7 +2,8 @@
 
 int main() {
     int m , y;
-
+    printf("Nguyen Tuan Hung    ;     MSSV : 20162031 ");
+    printf("In ra số ngày của tháng thuộc năm đó ");
     printf("\n Nhap vao nam :"); scanf("%d" , &y);
     printf("\n Nhap vao thang :"); scanf("%d" , &m);
     switch (m){

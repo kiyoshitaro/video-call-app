@@ -2,7 +2,8 @@
 void main()
 {
     int n;
-
+    printf("Nguyen Tuan Hung    ;     MSSV : 20162031 \n");
+    printf("Luyện tập với lệnh switch \n");
     printf("Nhap vao so nguyen bat ki tu 0 den 9 :");
     scanf("%d",&n);
     switch(n)
